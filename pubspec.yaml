@@ -1,5 +1,5 @@
 name: customizable_scrollbar
-description: "A new Flutter package project."
+description: "A customizable scrollbar that lets you pass a widget as the scrollbar's thumb."
 version: 0.0.1
 homepage: https://github.com/LucasVinicius314/customizable_scrollbar
 
