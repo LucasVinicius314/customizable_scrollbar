@@ -1,10 +1,10 @@
 name: customizable_scrollbar
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/LucasVinicius314/customizable_scrollbar
 
 environment:
-  sdk: '>=3.2.3 <4.0.0'
+  sdk: ">=3.2.3 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
